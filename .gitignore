@@ -1,0 +1,13 @@
+# bin files and builds
+/bin/
+/gtorr
+
+# modules cash files
+/.go/
+
+# IDE files
+/.vscode/
+
+# downloaded files folders
+/downloads/
+/*.torrent
